@@ -1,4 +1,3 @@
-  
 // Author: Abbey Kato amk7306@psu.edu
 // Collaborator: Jack Trueax jrt5617@psu.edu
 // Collaborator: Jiahui Lan jzl6335@psu.edu
